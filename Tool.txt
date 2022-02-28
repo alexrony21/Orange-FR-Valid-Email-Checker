@@ -1,0 +1,4 @@
+Orange FR Valid Email Checker
+it will check you Orange FR email list from a file.txt . it supports Http proxy and you can unlimited check . if you wanna buy this tool contact me via Facebook or Telegram . 
+Facebook : https://web.facebook.com/alexrony85/
+Telegram : @alexrony21
